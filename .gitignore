@@ -1,6 +1,7 @@
 # PyCharm Configuration Folder
 .idea
 .vscode
+.vs
 
 # Python Environment
 venv
