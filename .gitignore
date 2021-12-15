@@ -9,3 +9,10 @@ venv
 # Python Compiled Files
 *.pyc
 __pycache__
+
+# Packaging
+*.egg-info
+bin
+build
+dist
+MANIFEST
