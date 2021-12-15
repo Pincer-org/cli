@@ -1,6 +1,7 @@
 # 💻 Pincer CLI
 
 ![Lines of code](https://tokei.rs/b1/github/pincer-org/cli)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Pincer-org/cli/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/Pincer-org/cli/?branch=main)
 
 A command line interface to bring automation to your [Pincer](https://github.com/pincer-org/pincer) projects.
 
