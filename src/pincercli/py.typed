@@ -1,0 +1,1 @@
+typing metadata is provided as a convienience, Since this is a CLI package we don't have the obligation nor the need to let people import it.
